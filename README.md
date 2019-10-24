@@ -1,11 +1,11 @@
 # asco_scraping
 
 
-Firstly  virtual envirement command  -
+Firstly  virtual environments command  -
 >>>>>>>>>>   pip install virtualenv
 than create virtualenv command -
 
->>>>>>>>  virtualenv <envirement name>
+>>>>>>>>  virtualenv <environment name>
 
 than---
 
